@@ -3,6 +3,7 @@
 <hr />
 
 # Writer
+- https://doc.rust-lang.org/stable/std/io/trait.Write.html
 - Write a buffer into this writer, returning how many bytes were written.
 
 - This function will attempt to write the entire contents of `buf`, but the entire write might not succeed, or the write may also generate an error. Typically, a call to `write` represents one attempt to write to any wrapped object.
