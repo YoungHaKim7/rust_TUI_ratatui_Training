@@ -1,4 +1,9 @@
+# link
+
 - https://github.com/ratatui/ratatui-website/tree/main/code/tutorials/counter-app-basic
+
+- [(외부링크)250210 Bringing Terminal Aesthetics to the Web With Rust (and Vice Versa) - FOSDEM 2025 Orhun Parmaksız](https://youtu.be/iepbyYrF_YQ?si=P9sYtrsPQi4GyDgl)
+
 
 <hr />
 
